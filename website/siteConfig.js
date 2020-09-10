@@ -27,6 +27,12 @@ const users = [
     infoLink: 'https://rocket.chat',
     pinned: true,
   },
+  {
+    caption: 'Jimdo',
+    image: '/img/users/jimdo.svg',
+    infoLink: 'https://www.jimdo.com',
+    pinned: true,
+  },
 ];
 
 const siteConfig = {
